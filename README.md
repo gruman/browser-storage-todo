@@ -1,6 +1,6 @@
-# Browser Store Todo List with React and Typescript
+# Browser Store Todo List with React, Browser Storage, and Typescript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A small Todo List makes with React, Browser Storage, Typescript, CSS, and React Icons. Lots of comments in the code!
 
 ## Installation
 
